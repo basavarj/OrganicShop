@@ -1,0 +1,16 @@
+.img-fluid {
+  max-width: 100% !important;
+  height: 100% !important;
+}
+#productcard{
+  width: 18rem;
+  height:26rem;
+  margin: 20px;
+}
+@media only screen and (max-width: 600px) {
+  #productcard{
+    width: auto;
+    height:auto;
+    margin: 10px;
+  }
+}

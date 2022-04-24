@@ -1,0 +1,33 @@
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  background-color: #f1f1f1;
+  position: fixed;
+  height:auto;
+  overflow: auto;
+  margin-top:50px ;
+}
+
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+  border: 1px solid #ddd;
+}
+
+.sidebar a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #04AA6D;
+  color: white;
+}
+@media only screen and (max-width: 600px) {
+  #category{
+    display: none;
+  }
+}

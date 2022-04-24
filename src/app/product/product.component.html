@@ -1,0 +1,13 @@
+<div class="card" id="productcard" (click)="showProductDetails(Product.id)">
+  <img class="img-fluid" [src]="Product.imageUrl" />
+  <div class="card-body" >
+    <p>{{Product.description | summary}}</p>
+    <hr>
+    <span style="font-weight: bold;" class="card-title">{{Product.title}}</span>
+    <span style="float: right; font-weight: bold;" class="card-text">{{Product.price |currency:'INR':true }}</span>
+    <hr>
+    <div class="d-grid">
+      <button type="button" class="btn btn-primary btn-block">ADD TO CART</button>
+    </div>
+  </div>
+</div>

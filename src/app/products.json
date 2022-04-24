@@ -1,0 +1,151 @@
+[
+  {
+    "id":1,
+    "category":"Vegetables",
+    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwQoWFauuVhAbZbK1VbokEX7nLijAK4yBU7Q&usqp=CAU",
+    "price":10,
+    "title":"Spinach",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+  },
+  {
+    "id":2,
+    "category":"Bread",
+    "imageUrl":"https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+    "price":5,
+    "title":"Freshly Baked Bread",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+  },
+  {
+    "id":3,
+    "category":"Fruits",
+    "imageUrl":"data:image/jpeg;base64,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",
+    "price":20,
+    "title":"Avacado",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+  },
+  {
+    "id":4,
+    "category":"Vegetables",
+    "imageUrl":"https://static.pexels.com/photos/8390/food-wood-tomatoes.jpg",
+    "price":5,
+    "title":"Tomato",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+  },
+  {
+    "id":5,
+    "category":"Vegetables",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cauliflowers_-_20051021.jpg/1280px-Cauliflowers_-_20051021.jpg",
+    "price":10,
+    "title":"Cauliflower",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+  },
+  {
+    "id":6,
+    "category":"Fruits",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bananas.jpg/1024px-Bananas.jpg",
+    "price":10,
+    "title":"Banana",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+  },
+  {
+    "id":7,
+    "category":"Fruits",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
+    "price":10,
+    "title":"Apple",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+  },
+  {
+    "id":8,
+    "category":"Fruits",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/3/36/Kyoho-grape.jpg",
+    "price":10,
+    "title":"Grape",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+  },
+  {
+    "id":9,
+    "category":"Fruits",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Autumn_Red_peaches.jpg",
+    "price":10,
+    "title":"Peach",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+  },
+  {
+    "id":10,
+    "category":"Seasonings",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8c/Cinnamon-other.jpg",
+    "price":8,
+    "title":"Cinnamon Sticks",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+  },
+  {
+    "id":11,
+    "category":"Seasonings",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/4/48/Saffron_Crop.JPG",
+    "price":8,
+    "title":"Saffron",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+
+  },
+  {
+    "id":12,
+    "category":"Seasonings",
+    "imageUrl":"http://maxpixel.freegreatpicture.com/static/photo/1x/Seasoning-Powder-Curry-Spice-Ingredient-Turmeric-2344157.jpg",
+    "price":8,
+    "title":"Ground Turmeric",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+
+  },
+  {
+    "id":13,
+    "category":"Seasonings",
+    "imageUrl":"http://maxpixel.freegreatpicture.com/static/photo/1x/Ingredient-Herb-Seasoning-Seeds-Food-Coriander-390015.jpg",
+    "price":8,
+    "title":"Coriander Seeds",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+
+  },
+  {
+    "id":14,
+    "category":"Bread",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Fabrication_du_lavash_%C3%A0_Noravank_%286%29.jpg/1280px-Fabrication_du_lavash_%C3%A0_Noravank_%286%29.jpg",
+    "price":8,
+    "title":"Lavash Bread",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+  },
+  {
+    "id":15,
+    "category":"Bread",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Bagel-Plain-Alt.jpg",
+    "price":8,
+    "title":"Bangel Bread",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+
+  },
+  {
+    "id":16,
+    "category":"Fruits",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e1/Strawberries.jpg",
+    "price":8,
+    "title":"Strawberry",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+
+  },
+  {
+    "id":17,
+    "category":"Bread",
+    "imageUrl":"https://static.pexels.com/photos/416607/pexels-photo-416607.jpeg",
+    "price":8,
+    "title":"Baguette Bread",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+  },
+  {
+    "id":18,
+    "category":"Diary",
+    "imageUrl":"https://5.imimg.com/data5/DB/LG/MY-45464889/white-paneer-500x500-500x500.jpg",
+    "price":8,
+    "title":"Fresh Panner",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+  }
+]

@@ -1,0 +1,16 @@
+<!-- <app-product ></app-product> -->
+<div class="row">
+  <div class="col-3" id="category">
+    <div class="sidebar">
+      <a class="" (click)="allProducts()">All</a>
+      <a class="" *ngFor="let category of Categories" (click)="categoryProducts(category.name)">{{category.name}}</a>
+    </div>
+  </div>
+  <div class="col" style="margin-top: 50px;">
+      <div class="row">
+        <div class="col-sm col-xs-12" *ngFor="let Product of Prodcuts let i = index">
+          <app-product [Product]="Product" *ngIf="Product"></app-product>
+        </div>
+      </div>
+  </div>
+</div>

@@ -1,0 +1,23 @@
+<div class="row" style="margin-top:50px;">
+  <div class="col-sm">
+      <img class="img-fluid" [src]="filterProduct.imageUrl" alt="">
+  </div>
+  <div class="col-sm">
+    <h3>{{filterProduct.title}}</h3>
+    <h4>{{filterProduct.price|currency:"INR":true}}</h4>
+    <p>{{filterProduct.description}}</p>
+    <br>
+    <div class="row">
+      <div class="col-sm">
+        <div class="d-grid">
+          <button type="button" class="btn btn-primary btn-block">ADD TO CART</button>
+        </div>
+      </div>
+      <div class="col-sm">
+        <div class="d-grid">
+          <button type="button" class="btn btn-warning btn-block">BUY NOW</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
