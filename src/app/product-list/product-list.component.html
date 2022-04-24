@@ -8,7 +8,7 @@
   </div>
   <div class="col" style="margin-top: 50px;">
       <div class="row">
-        <div class="col-sm col-xs-12" *ngFor="let Product of Prodcuts let i = index">
+        <div class="col-sm-4 col-xs-12" *ngFor="let Product of Prodcuts let i = index" id="products-row">
           <app-product [Product]="Product" *ngIf="Product"></app-product>
         </div>
       </div>
